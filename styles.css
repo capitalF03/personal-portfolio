@@ -17,7 +17,7 @@
 }
 .web {
   color: #ffffff;
-  padding: 50px;
+  padding: 18px;
   font-size: 48px;
   font-weight: lighter;
   text-align: center;
@@ -33,7 +33,6 @@
 
 .footerContent p {
   max-width: 500px;
-
   line-height: 28px;
   font-size: 14px;
 }
@@ -44,7 +43,7 @@
   justify-content: center;
 }
 .socials li {
-  margin: 0 50px;
+  margin: 0 20px;
 }
 
 .socials a {
@@ -56,4 +55,9 @@
 .socials li:hover {
   color: aqua;
   transition: 100ms;
+}
+
+img{
+  height: auto;
+  width: 60%;
 }
